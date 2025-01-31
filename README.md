@@ -47,4 +47,12 @@ Blazor Hybrid bietet die Möglichkeit, moderne Webtechnologien mit nativen Deskt
 
 - Native Leistung: Direkter Zugriff auf native APIs und Hardware-Funktionen.
 
-Repository-Inhalt
+Repository-Inhalt:
+
+- Personas:
+  
+![Persona 1](https://github.com/user-attachments/assets/5ad12a31-d48d-46c9-b597-e7131fe647e9)
+
+![Persona 2](https://github.com/user-attachments/assets/2ccca313-f4c9-4a44-ab61-a626a6aaecbf)
+
+
