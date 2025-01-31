@@ -55,4 +55,71 @@ Repository-Inhalt:
 
 ![Persona 2](https://github.com/user-attachments/assets/2ccca313-f4c9-4a44-ab61-a626a6aaecbf)
 
+- User Story:
+
+![User-Story 1](https://github.com/user-attachments/assets/fc77e18c-682b-43f1-8dd8-2517476ce324)
+
+![User-Story 2](https://github.com/user-attachments/assets/e4481a19-51b6-4c01-99ad-bd5e126852ba)
+
+- User Journey Map:
+
+![User Journey Map 1](https://github.com/user-attachments/assets/d4cc38a8-81e9-4123-8fc5-d3f0672584ca)
+
+![User Journey Map 2](https://github.com/user-attachments/assets/822fc215-abd5-4b2e-8450-17bec2331c10)
+
+- Problem Statment:
+
+![Problem Statment 1](https://github.com/user-attachments/assets/7f8938e4-3450-4dee-bb8f-8f2bc22f9441)
+
+![Problem Statment 2](https://github.com/user-attachments/assets/0d9c1aeb-6af1-4d9b-bb74-43ffc50784a2)
+
+- Hypothesis Statment:
+
+![Hypothesis Statment 1](https://github.com/user-attachments/assets/6c61b480-1a8e-4565-bc06-f268a11373d9)
+
+![Hypothesis Statment 2](https://github.com/user-attachments/assets/72cf5126-a45b-46ef-a5a1-3ff1b65744ab)
+
+- Goal Statment:
+
+![Goal Statment](https://github.com/user-attachments/assets/94d28885-93e5-4e37-bd6a-113b1b02a3fa)
+
+- User Tasks:
+
+![10- User Task](https://github.com/user-attachments/assets/033771de-4276-4c27-aa58-898cffab9be0)
+
+- UX Design Storyboard:
+
+![Storyboards-Big Picture](https://github.com/user-attachments/assets/1e2aef57-6b3b-4e00-85d2-ad77b8a7c2ce)
+
+![Storyboards-Close-up](https://github.com/user-attachments/assets/47873b18-9536-483e-a967-587ffb1872be)
+
+- Wettbewerber Analyse:
+
+[12- Wettbewerber Analyse.xlsx](https://github.com/user-attachments/files/18613466/12-.Wettbewerber.Analyse.xlsx)
+
+- UX-Recherche Studie:
+
+[13- UX-Recherche Studie - Planung (Post-Launch-Forschung).docx](https://github.com/user-attachments/files/18613491/13-.UX-Recherche.Studie.-.Planung.Post-Launch-Forschung.docx)
+
+[14- UX-Recherche Studie - Notizentabelle.xlsx](https://github.com/user-attachments/files/18613493/14-.UX-Recherche.Studie.-.Notizentabelle.xlsx)
+
+- Portfolie:
+
+[Portfolio.pptx](https://github.com/user-attachments/files/18613500/Portfolio.pptx)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
