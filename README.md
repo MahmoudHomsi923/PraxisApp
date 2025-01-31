@@ -1,4 +1,4 @@
-# PraxisApp
+# PraxisApp 🏥
 
 Projektbeschreibung: Offline-fähige Dokumentations-App für Praxen und Hausbesuche
 
