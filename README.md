@@ -107,6 +107,8 @@ Repository-Inhalt:
 
 [Portfolio.pptx](https://github.com/user-attachments/files/18613500/Portfolio.pptx)
 
+- Low-Fidelty 
+
 
 
 
