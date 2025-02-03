@@ -109,7 +109,7 @@ Repository-Inhalt:
 
 - Low-Fidelty Prototype:
 
-[Low Fidelty Prototype.webm](https://github.com/user-attachments/assets/67564477-5597-4c90-91a0-97dbd465ec6f)
+https://github.com/user-attachments/assets/5254bfa0-3565-42b9-b693-b1135ef31f09
 
 - Hight-Fidelty Prototype:
 
