@@ -107,7 +107,17 @@ Repository-Inhalt:
 
 [Portfolio.pptx](https://github.com/user-attachments/files/18613500/Portfolio.pptx)
 
-- Low-Fidelty 
+- Low-Fidelty Prototype:
+
+[Low Fidelty Prototype.webm](https://github.com/user-attachments/assets/67564477-5597-4c90-91a0-97dbd465ec6f)
+
+- Hight-Fidelty Prototype:
+
+https://github.com/user-attachments/assets/d67d319d-7b6f-4247-88d3-ab88578f5501
+
+- App:
+
+https://github.com/user-attachments/assets/ae833c69-4be0-4a2f-aebb-82e6f82506a2
 
 
 
